@@ -1,0 +1,12 @@
+Pseudo Code for making a Peanut Butter and Jelly Sandwhich.
+
+1. Open pantry
+2. Grab Peanut Butter
+3. Grab Jelly
+4. Grab Bread
+5. Grab butterknife
+6. Open peanut butter
+7. Spread peanut butter onto one slice of bread
+8. Spread jelly onto other side of bread
+9. Put the two pieces of bread together
+10. Put away items
